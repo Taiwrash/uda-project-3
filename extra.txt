@@ -1,0 +1,3 @@
+Secret: DM3LfeagdAuZzRH4LzrSDIlyi2iNAUkUEoznpRgP
+Public/AccessID: AKIA4KXXKNAXXGMNVXVB
+fingerprint: a5:c6:88:cd:40:0e:c0:86:bd:fa:d0:fb:39:5c:ac:0a

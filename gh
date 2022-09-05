@@ -1,0 +1,10 @@
+#!/bin/bash
+git add .
+git commit -m $1
+git push
+
+# Purpose: Simple script written to automate Git and GitHub day to day interactions
+# How: At the root of every project, I will create "gh" file that will \
+# contain the above script with executable permissions
+# Limitation: One word commit message.
+# Next steps: Solving Limitation in the next post ):/

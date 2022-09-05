@@ -1,0 +1,14 @@
+backend/
+cd
+CODEOWNERS
+frontend/
+gh*
+instructions/
+LICENSE.md
+package-lock.json
+README.md
+Screenshot01.png
+udapeople.png
+udapeople-pipeline.png
+url.txt
+util/

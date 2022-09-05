@@ -1,0 +1,5 @@
+Repo Link01: https://github.com/Taiwrash/cdond-c3-projectstarter
+url02: http://udapeople-227bd41.s3-website-us-east-1.amazonaws.com
+url03: https://d2ndkknha46owi.cloudfront.net
+url04: http://54.89.24.226:3030/api/status
+url05: http://ec2-3-95-159-57.compute-1.amazonaws.com:9090/targets
