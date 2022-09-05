@@ -190,6 +190,7 @@ jobs:
       # Add ssh keys with fingerprint
       - add_ssh_keys:
          fingerprints:
+            #  udapeople-dc4d28a
             - "7c:c3:58:2a:8d:8b:5d:66:2a:6d:ad:2b:9a:c3:ca:87"
       # attach workspace
       - attach_workspace:
